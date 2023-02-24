@@ -1,4 +1,3 @@
-# 💫 About Me:
 💫 Sobre mim:<br>-Em constante busca por aprendizado-<br>Apaixonado por tecnologia 💻🎮🌍<br>20 Anos<br>Dev back-end em construção
 
 
