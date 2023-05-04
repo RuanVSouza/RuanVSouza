@@ -19,19 +19,19 @@ Programador em busca de mostrar serviço e valor ao dia a dia com meus conhecime
 ## Principais Projetos Back-end - Java/Spring Boot
 
 
-[Gerenciador de tarefas](https://github.com/RuanVSouza/Gerenciador_tarefas)                         
-[Criação de APIRest com posts de usuarios - Banco de dados MongoDB](https://github.com/RuanVSouza/APIRest-springBoot-mongodb)                                                                                                           
-                                                              [Criação de APIRest com cadastros de usuarios e banco de dados SQL](https://github.com/RuanVSouza/workshop-springboot3-jpa)
+[- Gerenciador de tarefas](https://github.com/RuanVSouza/Gerenciador_tarefas)                         
+[- Criação de APIRest com posts de usuarios - Banco de dados MongoDB](https://github.com/RuanVSouza/APIRest-springBoot-mongodb)                                                                                                           
+[- Criação de APIRest com cadastros de usuarios e banco de dados SQL](https://github.com/RuanVSouza/workshop-springboot3-jpa)
 
 
 
 
 ## Principais Projetos Front-end - HTML/CSS/Javascript
 
-[Calculadora Simples](https://github.com/RuanVSouza/Calculadora)  
-[Site de noticias de uma cidade ficticia](https://github.com/RuanVSouza/NoticiasCidade)                                                                                      
-[Blog AnnaBella](https://github.com/RuanVSouza/AnnaBella)                                   
-[TecnoBlog](https://github.com/RuanVSouza/TecnoBlog) 
+[- Calculadora Simples](https://github.com/RuanVSouza/Calculadora)  
+[- Site de noticias de uma cidade ficticia](https://github.com/RuanVSouza/NoticiasCidade)                                                                                      
+[- Blog AnnaBella](https://github.com/RuanVSouza/AnnaBella)                                   
+[- TecnoBlog](https://github.com/RuanVSouza/TecnoBlog) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RuanVSouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
