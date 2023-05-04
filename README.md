@@ -33,8 +33,16 @@ Programador em busca de mostrar serviço e valor ao dia a dia com meus conhecime
 [Blog AnnaBella](https://github.com/RuanVSouza/AnnaBella)                                   
 [TecnoBlog](https://github.com/RuanVSouza/TecnoBlog) 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RuanVSouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RuanVSouza&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanVSouza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RuanVSouza&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 
