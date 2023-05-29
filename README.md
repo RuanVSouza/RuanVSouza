@@ -21,7 +21,7 @@ Programador em busca de mostrar serviço e valor ao dia a dia com meus conhecime
 
 [- Gerenciador de tarefas](https://github.com/RuanVSouza/Gerenciador_tarefas)                         
 [- Criação de APIRest com posts de usuarios - Banco de dados MongoDB](https://github.com/RuanVSouza/APIRest-springBoot-mongodb)                                                                                                           
-[- Criação de APIRest com cadastros de usuarios e banco de dados SQL](https://github.com/RuanVSouza/workshop-springboot3-jpa)
+[- Loja de produtos e associação a clientes com MySQL](https://github.com/RuanVSouza/workshop-springboot3-jpa)
 
 
 
