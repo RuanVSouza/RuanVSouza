@@ -6,22 +6,24 @@ Em constante busca por aprendizado
 Apaixonado por tecnologia💻🎮🌍  
 Dev back-end em construção
 
-Programador em busca de mostrar serviço e valor ao dia a dia com meus conhecimentos. Atualmente sou programador C#/.NET com conhecimentos bem definidos em criação de APIRest e banco de dados SQL e NoSQL. 
+Programador em busca de mostrar serviço e valor ao dia a dia com meus conhecimentos. Atualmente sou programador Java/SpringBoot com conhecimentos solidos em criação de APIs RestFull e banco de dados SQL e NoSQL. 
 
 
-## 🔗 Links
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruansouzav_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruanvsouza1/) 
+## 🔗 Links para contato
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruansouzav_/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruanvsouza1/) 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=CllgCJvmZZpvQGQBdRPhMVnCNkcxfQQhzVrXmKjGmZPBjdNNrrQDPzXrVgfFBqhlpRBQfdTdwCg)
 
 ## Tecnologias
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,cs,dotnet,javascript,css,html,mysql,mongodb,docker,git,github)](https://skillicons.dev)
+
 
 ## Principais Projetos Back-end 
 
 
 [- Gerenciador de tarefas](https://github.com/RuanVSouza/Gerenciador_tarefas)                         
-[- Criação de APIRest com posts de usuarios - Banco de dados MongoDB](https://github.com/RuanVSouza/APIRest-springBoot-mongodb)                                                                                                           
+[- Criação de APIRest com posts de usuarios - Banco de dados MongoDB](https://github.com/RuanVSouza/APIRest-springBoot-mongodb)                                                                 
 [- Loja de produtos e associação a clientes com MySQL](https://github.com/RuanVSouza/workshop-springboot3-jpa)
 
 
@@ -30,7 +32,8 @@ Programador em busca de mostrar serviço e valor ao dia a dia com meus conhecime
 ## Principais Projetos Front-end - HTML/CSS/Javascript
 
 [- Calculadora Simples](https://github.com/RuanVSouza/Calculadora)  
-[- Site de noticias de uma cidade ficticia](https://github.com/RuanVSouza/NoticiasCidade)                                                                                      
+[- Pokedex](https://github.com/RuanVSouza/Pokedex-DIO)    
+[- Site de noticias de uma cidade ficticia](https://github.com/RuanVSouza/NoticiasCidade)         
 [- Blog AnnaBella](https://github.com/RuanVSouza/AnnaBella)                                   
 [- TecnoBlog](https://github.com/RuanVSouza/TecnoBlog) 
 
