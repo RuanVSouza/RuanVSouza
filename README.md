@@ -16,7 +16,7 @@ Programador em busca de mostrar serviço e valor ao dia a dia com meus conhecime
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,cs,dotnet,javascript,css,html,mysql,mongodb,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,angular,typescript,cs,dotnet,javascript,css,html,mysql,mongodb,docker,git,github)](https://skillicons.dev)
 
 
 ## Principais Projetos Back-end 
