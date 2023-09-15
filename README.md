@@ -4,9 +4,9 @@
 ## 🚀 Sobre mim
 Em constante busca por aprendizado  
 Apaixonado por tecnologia💻🎮🌍  
-Dev back-end em construção
+Dev Fullstack em construção
 
-Programador em busca de mostrar serviço e valor ao dia a dia com meus conhecimentos. Atualmente sou programador Java/SpringBoot com conhecimentos solidos em criação de APIs RestFull e banco de dados SQL e NoSQL. 
+Programador em busca de mostrar serviço e valor ao dia a dia com meus conhecimentos. Atualmente sou programador Java/SpringBoot + Angular com conhecimentos solidos em criação de APIs RestFull e banco de dados SQL e NoSQL. 
 
 
 ## 🔗 Links para contato
