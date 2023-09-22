@@ -32,6 +32,7 @@ Programador em busca de mostrar serviço e valor ao dia a dia com meus conhecime
 ## Principais Projetos Front-end - HTML/CSS/Javascript/Typescript/Angular
 
 [- Blog Angular](https://github.com/RuanVSouza/angular-blog)  
+[- Tela Playstation](https://github.com/RuanVSouza/Tela-PSN)  
 [- Calculadora Simples](https://github.com/RuanVSouza/Calculadora)  
 [- Pokedex](https://github.com/RuanVSouza/Pokedex-DIO)    
 [- Site de noticias de uma cidade ficticia](https://github.com/RuanVSouza/NoticiasCidade)         
