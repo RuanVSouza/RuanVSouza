@@ -4,7 +4,7 @@
 ## 🚀 Sobre mim
 Em constante busca por aprendizado  
 Apaixonado por tecnologia💻🎮🌍  
-Dev Fullstack em construção
+Dev em construção
 
 Programador em busca de mostrar serviço e valor ao dia a dia com meus conhecimentos. Atualmente sou programador tenho experiencias com Back-End como Java com Spring e C# com .Net com conhecimentos solidos em criação de APIs RestFull e banco de dados SQL e NoSQL. 
 
