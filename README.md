@@ -14,20 +14,16 @@ Programador com foco em criação de testes automatizados determinado a criar so
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,cypress,selenium,python,typescript,cs,javascript,css,html,mysql,mongodb,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,cypress,selenium,python,typescript,javascript,css,html,mysql,mongodb,docker,git,github)](https://skillicons.dev)
 
 ## Principais Projetos Automação
-[- Envio de email Cypress com Nodemailer](https://github.com/RuanVSouza/EnvioEmailCypress)        
-[- CypressWCAquino - projeto de treinamento](https://github.com/RuanVSouza/CypressWCAquino)      
+[- Envio de email Cypress com Nodemailer](https://github.com/RuanVSouza/EnvioEmailCypress)         
 [- Comparador de medidas energeticas](https://github.com/RuanVSouza/Comparador-De-Medidas-Delfos)      
 
 ## Principais Projetos Back-end 
 
 
-[- Buscador de CEP](https://github.com/RuanVSouza/DIO-BuscandoCEP)            
-[- API CRUD e autenticação de usuarios](https://github.com/RuanVSouza/rest-with-spring-boot-and-java)                     
-[- Criação de APIRest com posts de usuarios - Banco de dados MongoDB](https://github.com/RuanVSouza/APIRest-springBoot-mongodb)                                                                 
-[- Loja de produtos e associação a clientes com MySQL](https://github.com/RuanVSouza/workshop-springboot3-jpa)
+[- Buscador de CEP](https://github.com/RuanVSouza/DIO-BuscandoCEP)                                                                                      
 
 
 
