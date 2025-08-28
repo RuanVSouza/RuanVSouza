@@ -3,9 +3,7 @@
 
 ### 🚀 Sobre mim  
 Sou desenvolvedor fullstack com experiência em **QA e testes automatizados**.  
-Tenho conhecimento em **NodeJs, Java, Spring, React, Angular** e bancos de dados SQL/NoSQL.  
-Meu objetivo é criar aplicações escaláveis e de qualidade, sempre unindo **desenvolvimento e boas práticas de testes**.
-
+Minhas stacks são **NodeJs, Java, Spring, React, Angular** e bancos de dados SQL/NoSQL.  
 
 
 # 📊 GitHub Stats:
@@ -26,7 +24,6 @@ Meu objetivo é criar aplicações escaláveis e de qualidade, sempre unindo **d
 [![My Skills](https://skillicons.dev/icons?i=cypress,selenium,javascript,python,java)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,docker,git,github,gitlab)](https://skillicons.dev)
 
-<img src="https://raw.githubusercontent.com/RuanVSouza/RuanVSouza/output/snake.svg" alt="Snake animation" />
 
 
 
