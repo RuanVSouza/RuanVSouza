@@ -3,7 +3,7 @@
 
 ### 🚀 Sobre mim  
 Sou desenvolvedor fullstack com experiência em **QA e testes automatizados**.  
-Minhas stacks são **NodeJs, Java, Spring, React, Angular** e bancos de dados SQL/NoSQL.  
+Minhas stacks são **NodeJs, Java, Spring, React e Angular** e bancos de dados SQL/NoSQL.  
 
 
 # 📊 GitHub Stats:
